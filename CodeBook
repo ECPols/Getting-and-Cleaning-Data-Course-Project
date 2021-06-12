@@ -1,0 +1,14 @@
+subject: An identifier of the subject who carried out the experiment
+activity: Its activity label. 
+
+Next up are different variables that are a combination of the next different factors:
+
+Acceleration: from the accelerometer (total acceleration) 
+BodyAcceleration: the estimated body acceleration.
+Time: A 561-feature vector with time domain.
+Frequency: A 561-feature vector with frequency domain.
+Gyro: Triaxial Angular velocity from the gyroscope.
+STD: standard deviation
+Mean: mean
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+Jerk: Jerk signals
